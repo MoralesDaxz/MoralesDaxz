@@ -1,4 +1,4 @@
-### , I'm Alfredo Morales!
+### Hi, I'm Alfredo Morales!
 <br>💡  I love learning everything that implements HTML, CSS, JS, REACT.<br>✨ My focus is on developing professionally as a web developer.<br>📫 You can shoot me an email at alfredojose.92@gmail.com I'll try to respond as soon as I can.<br>🎶 Love rock, lofi, jazz and soft music.<br>
 
 
@@ -18,4 +18,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MoralesDaxz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
