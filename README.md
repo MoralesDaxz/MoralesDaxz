@@ -1,6 +1,10 @@
 ### Hi, I'm Alfredo Morales!
-<br>💡  I love learning everything that implements HTML, CSS, JS, REACT.<br>✨ My focus is on developing professionally as a web developer.<br>📫 You can shoot me an email at alfredojose.92@gmail.com I'll try to respond as soon as I can.<br>🎶 Love rock, lofi, jazz and soft music.<br>
-
+<div>
+<p>💡  I love learning everything that implements HTML, CSS, JS, REACT.</p>
+<p>✨ My focus is on developing professionally as a web developer.</p>
+<p>📫 You can shoot me an email at alfredojose.92@gmail.com I'll try to respond as soon as I can.</p>
+<p>🎶 Love rock, lofi, jazz and soft music.</p>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alfredo-jose-morales-ramirez-6b664b1a7/) 
