@@ -1,9 +1,9 @@
 
  
   <h1 align='center'>Hi, I'm Alfredo Morales! <img src='https://i.ibb.co/2chd5wS/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67.gif' width='30'> </h1> 
-   ![GitHub followers](https://img.shields.io/github/followers/MoralesDaxz?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/MoralesDaxz?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MoralesDaxz.repoName) <img src="https://komarev.com/ghpvc/?username=MoralesDaxz" alt="MoralesDaxz" />
+  [![GitHub User's stars](https://img.shields.io/github/stars/MoralesDaxz)](https://img.shields.io/github/stars/moralesdaxz)
 
-<div>
+
 <p>💡  I love learning everything that implements HTML, CSS, JS, REACT.</p>
 <p>✨ My focus is on developing professionally as a web developer.</p>
 <p>📫 You can shoot me an email at alfredojose.92@gmail.com I'll try to respond as soon as I can.</p>
